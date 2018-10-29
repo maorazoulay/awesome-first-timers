@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Maor Azoulay	 
+  Place: New-York, USA  
+  Bio: CS Major (Sophomore)
+  GitHub: [maorazoulay](https://github.com/maorazoulay)
+
